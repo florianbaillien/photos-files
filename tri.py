@@ -3,7 +3,7 @@ import shutil
 from datetime import datetime
 
 # Définir le dossier source contenant les images
-source_folder = "/Users/flobaillien/DocumentsPC/Tri photo/Mes images/Media"
+source_folder = "{path}"
 
 # Vérifier si le dossier existe
 if not os.path.exists(source_folder):
